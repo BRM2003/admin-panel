@@ -320,6 +320,7 @@ main .recent-orders a {
     align-items: center;
     justify-content: center;
     transition: all 50ms ease;
+    cursor: pointer;
 }
 
 .right .sales-analytics .add-product:active {
